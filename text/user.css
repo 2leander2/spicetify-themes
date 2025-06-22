@@ -9,7 +9,7 @@
 
 /* user settings */
 :root {
-    --font-family: "JetBrains Mono", monospace;
+    --font-family: "Terminess Nerd Font Propo", monospace;
     /*
     --font-family: 'Anonymous Pro', monospace;
     --font-family: 'Azeret Mono', monospace;
@@ -40,7 +40,7 @@
     --font-family: 'VT323', monospace;
     --font-family: 'Xanh Mono', monospace;
     */
-    --font-size: 14px;
+    --font-size: 16px;
     --font-weight: 400; /* 200 : 900 */
     --line-height: 1.2;
 
